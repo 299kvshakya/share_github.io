@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+fieldset{
+    display : none;
+}
+
+#first_form{
+    display: block;
+}
+
+#profile_img{
+    width: 85%;
+}
+
+ul li{
+    list-style: none;
+}
+
+.like_cmmnt{
+    background-color: gray;
+}
+
+button{
+    background: transparent;
+    border-style: none;
+}
